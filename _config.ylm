@@ -1,0 +1,11 @@
+# basic options, I can say what ever here
+title: New-awesome-blog
+author: Smart Guy
+email: your-email@domain.com
+description: A lovely wonderful site blog
+twitter_username: jekyll
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
